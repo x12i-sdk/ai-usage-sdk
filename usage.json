@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/ai-usage-sdk",
+  "packageVersion": "0.1.1",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/ai-usage-sdk",
+  "usageRepository": "https://github.com/x12i-sdk/ai-usage-sdk",
+  "sourceRepository": "https://github.com/x12i/ai-agents-dashboard",
+  "sourceCommit": "baf24ec41ba9b0881c90b237606f78e854057841",
+  "sourcePackageDirectory": "packages/sdk",
+  "example": {
+    "title": "Round-trip a local vault record through the encryption helpers",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:51:50.664565+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "92b59ed0bd4fc55865586bdff3671a40da511188a06ea818b3c5d30756e871f3",
+    "manifestSha256": "310adc8dc569edbe94a2dc12e0791800efc52d08de35a964953ff3dff3bac4c3"
+  }
+}

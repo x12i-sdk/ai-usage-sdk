@@ -1,0 +1,22 @@
+{
+  "name": "ai-usage-sdk-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/ai-usage-sdk: round-trip a local vault record through the encryption helpers.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/ai-usage-sdk": "0.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/ai-usage-sdk.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/ai-usage-sdk"
+}
